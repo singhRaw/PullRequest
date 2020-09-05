@@ -1,5 +1,4 @@
 print('Hello World')
 print('Evyerthing is beautiful')
-print('from master)
-print('my fav  movie ')
+print('from master')
 print('gums are perfection')
